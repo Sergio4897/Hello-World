@@ -1,2 +1,2 @@
 # Hello-World
-Hello World in C#.
+Hello World in C-sharp.
